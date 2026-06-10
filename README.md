@@ -2,7 +2,7 @@
 
 Personal quant research tutor. Web app where you converse with an LLM, it finds relevant strategy papers, teaches the core idea, runs backtests on Taiwan market data, and shows results.
 
-See `STUDY_PLAN.md` for the full plan.
+See `PLAN.md` for the full plan.
 
 ## Setup
 
